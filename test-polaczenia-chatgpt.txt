@@ -1,0 +1,3 @@
+Test połączenia ChatGPT z GitHubem.
+Repozytorium: cien-isengardu
+Jeśli widzisz ten plik, zapis na GitHubie działa.
